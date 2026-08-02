@@ -276,4 +276,4 @@ predict_image(model, image_index=25, dataset=test_dataset)
 <img width="328" height="371" alt="image" src="https://github.com/user-attachments/assets/db95239f-dcee-4dcb-a06b-abcb68804c37" />
 
 ## RESULT
-Include your result here
+Developing a Neural Network Classification Model using Transfer Learning was Successfully built
